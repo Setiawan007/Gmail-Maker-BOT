@@ -24,7 +24,7 @@ settings:
 # RUN
 
 - git clone https://github.com/Setiawan007/Gmail-Maker-BOT
-- cd Gmail-Bot
+- cd Gmail-Maker-BOT
 - pip3 install pyyaml
 - python main.py
 - buka chromedriver.exe di Windows kamu
